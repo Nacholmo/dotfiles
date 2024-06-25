@@ -1,6 +1,0 @@
-compton &
-tint2 &
-nitrogen --restore &
-obmenu-generator -p &
-setxkbmap -layout latam &
-alacritty &
